@@ -31,3 +31,6 @@ Introductory courses covering the fundamentals of data science, machine learning
 ### Statistics
 Core statistics knowledge for data analysis.
 - [Introduction to Statistics](https://www.datacamp.com/completed/statement-of-accomplishment/course/646a6161e7b8c44e97cd501aa6dc552acc2453d8)
+
+##  Connect with Me
+- [LinkedIn](www.linkedin.com/in/oluwafikunayomi-eniatimo-672967273)
